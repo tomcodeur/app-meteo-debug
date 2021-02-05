@@ -1,0 +1,30 @@
+.zone__texte {
+    display: flex;
+    margin: 0 auto;
+    width: 500px;
+    padding: 5px 5px;
+    border-radius: 3px;
+    border: none;
+    font-size: 20px;
+}
+
+input:active, input:focus {
+    outline-style: none;
+}
+
+.render__ville {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-size: 30px;
+    color: white;
+}
+ .container {
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+ }
+
+ .form__container {
+     width: 100%;
+ }
